@@ -1,2 +1,3 @@
-# Users-Log-ETL-Analysis
+# Server-Log-ETL-to-Database/
+
 This project leverages the use of Python &amp; SQL to Perform Extraction, Transformation and Loading (ETL) of data from a Server Log file to a MYSQL database.
