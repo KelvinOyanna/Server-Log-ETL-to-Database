@@ -5,6 +5,8 @@ from sqlalchemy import create_engine
 
 
 log_extract_data = []
+
+# opening the log file
 with open('bq-results-data.json', 'r') as log_file:
     for line in log_file:
         log_data = log_file.readline()
